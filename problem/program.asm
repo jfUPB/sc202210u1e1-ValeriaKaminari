@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Valeria Gonzalez Hernandez
+// 000147801
+// valeria.gonzalezh@upb.edu.co
 (START)
     @START
     0;JMP
